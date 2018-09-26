@@ -1,0 +1,215 @@
+<html>
+
+ <head>
+
+  <title>SlAyErYz YT Page</title>
+
+  <style type="text/css">
+
+   
+
+   * {
+
+    margin:0px;
+
+    padding:0px;
+
+   }
+
+   
+
+   #header {
+
+    margin:auto;
+
+    width:500px;
+
+    font-family:Arial, Helvetica, sans-serif;
+
+   }
+
+   
+
+   ul, ol {
+
+    list-style:none;
+
+   }
+
+   
+
+   .nav > li {
+
+    float:left;
+
+   }
+
+   
+
+   .nav li a {
+
+    background-color:#000;
+
+    color:#fff;
+
+    text-decoration:none;
+
+    padding:10px 12px;
+
+    display:block;
+
+   }
+
+   
+
+   .nav li a:hover {
+
+    background-color:#434343;
+
+   }
+
+   
+
+   .nav li ul {
+
+    display:none;
+
+    position:absolute;
+
+    min-width:140px;
+
+   }
+
+   
+
+   .nav li:hover > ul {
+
+    display:block;
+
+   }
+
+   
+
+   .nav li ul li {
+
+    position:relative;
+
+   }
+
+   
+
+   .nav li ul li ul {
+
+    right:-140px;
+
+    top:0px;
+
+   }
+
+   
+
+  </style>
+
+ </head>
+
+ <body>
+
+  <div id="header">
+
+   <ul class="nav">
+
+    <li><a href="https://slayeryzyt.github.io/Inicio/index.html">Inicio</a></li>
+
+    <li><a href="https://slayeryzyt.github.io/Descargas/index.html">Descargas</a></li>
+
+    <li><a href="https://discord.gg/rk7YQYp">Contacto (Discord)</a></li>
+
+   </ul>
+
+  </div>
+
+ </body>
+
+ 
+
+ <a href="https://www.superpay.me/members/withdraw/list.php?ref=SlAyErYzYT" target="_blank"><img src="https://www.superpay.me/images/banners/4.gif" width="468" height="60" border="0" /></a>
+
+ 
+
+</html>
+
+<BODY BGCOLOR=aqua>
+
+<header>
+
+    <div class="contenedor">
+
+    
+
+    
+
+        <h1 ALIGN=center>SlAyErYz page</h1>
+
+            <section id="banner">
+
+                <P ALIGN=center><img src="mionnn.png">
+
+                <div class="contenedor"
+
+            
+
+            <section id="bienvenidos">
+
+            <div class="contenedor">
+
+                <h2>BIENVENIDOS A MI PÁGINA</h2>
+
+                <p>Esta es la página web de SlAyErYz YT desde aqui descargaras los archivos proximamente subidos, esta página por ahora esta en beta aso que la iré mejorando poco a poco.</p>
+
+                </div>
+
+            </section>
+
+        </mmin>
+
+        
+
+        <p>‏‏‏‏‏‏‏‏</p>
+
+        <p>‏‏</p>
+
+        
+
+        <P ALIGN=left><A HREF="https://twitter.com/wheel764?s=09">🐦</A>
+
+        
+
+        <A HREF="https://www.instagram.com/slayeryzyt/">📷</A>
+
+        
+
+        <p>‏‏‏‏</p>
+
+        <p>‏‏</p>
+
+        
+
+        <footer>
+
+            <FONT COLOR="red"><div class="contenedor">
+
+                <p class="copy">© cσpчríght &copy; 2018</p>
+
+                <div class="sociales">
+
+                    <a class="fontawesome-twitter" href="#"></a>
+
+                </div>
+
+            </div>
+
+        </footer>
+
+</BODY>
+
+</HTML>
